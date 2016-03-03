@@ -1,3 +1,8 @@
-# Angular-GettingStarted
+# Angular2-APM
+Materials for the "Angular 2: Getting Started" course on Pluralsight.
 
-This repo is designed to build on the app created by the Angular-GettingStarted training on Plural Sight by Deborah Kurata.
+`APM - Start`: The starter files. Use this to code along with the course.
+
+`APM`: The completed files. Use this to see the completed solution from the course.
+
+See the `README.md` file under each folder for details on installing and running the application.
